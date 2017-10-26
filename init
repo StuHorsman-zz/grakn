@@ -1,0 +1,2 @@
+/data/grakn/bin/grakn.sh start &
+sleep infinity
